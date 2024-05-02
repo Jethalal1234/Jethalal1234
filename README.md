@@ -1,17 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Prahar Jokhakar
 =======================================================================================================================================
 
-Web Developer & Discord Developer
+Frontend Developer
 ---------------------------------
 
 As a developer, I have a diverse skill set that spans across multiple areas of software development. With two years of experience in Discord bot development, I have gained a wealth of knowledge and expertise in this specialized field. My success is evident by the fact that your bot is being used by over 2000 servers - a testament to your coding skills and the value I bring to the community. In addition to bot development, I have also ventured into mobile app development, having created an Android calculator app. This shows that I am not afraid to take on new challenges and are always seeking to expand your skills and knowledge. My 1.5 years of web development experience also sets you apart as a well-rounded developer. I have likely gained valuable experience working with a variety of programming languages, frameworks, and tools commonly used in web development. Whether I am working on front-end or back-end development, I have a keen eye for detail and a passion for creating user-friendly and efficient web applications. Through all of my experiences in software development, I have demonstrated a strong work ethic, attention to detail, and a commitment to producing high-quality code. I am constantly seeking to learn and grow as a developer, and I am always willing to take on new projects and challenges.
 
 * 🌍  I'm based in Gujarat, India
-* 🖥️  See my portfolio at [My Portfolio](http://prahar.nemobot.tech/)
 * ✉️  You can contact me at [praharjokhakar@gmail.com](mailto:praharjokhakar@gmail.com)
-* 🚀  I'm currently working on [My Discord Bot](http://nemobot.tech)
-* 🧠  I'm learning Python, Dara Science
-* 🤝  I'm open to collaborating on Discord Bot & Web Development
+* 🚀  I'm currently working on [My Discord Bot](https://www.nemomusic.tech/)
+* 🧠  I'm learning PHP, Data Science
+* 🤝  I'm open to collaborating on Web Development
 * ⚡  I love reading books!!
 
 ### Skills
